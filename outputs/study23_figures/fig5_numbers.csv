@@ -1,0 +1,9 @@
+quantity,value
+estimator AUROC (check: 0.794),0.7942128117605243
+test base rate,0.06977950175278474
+mean raw risk at prediction points,0.13232284764262592
+"Brier, raw risk",0.06362365917035992
+"Brier, recalibrated estimator",0.058906798895295404
+"ECE, recalibrated estimator",0.011446446495227976
+"Brier, gradient boosting",0.058685855887046744
+"ECE, gradient boosting",0.007458830924196439

@@ -1,0 +1,3 @@
+scheme,n_test,n_onset,base_rate,winter_frac
+interleaved (odd months),48209,3364,0.06977950175278474,0.1887406915721131
+chronological (last 30%),27853,1974,0.07087207841166122,0.25508921839658205
